@@ -1,2 +1,2 @@
 # university_admission
-This repo focuses on analysis of UniversityStudent Admission Data in Zambia
+This repo focuses on analysis of University Student Admission Data in Zambia
